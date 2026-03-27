@@ -1,3 +1,5 @@
 admin:admin - 0
 gio:admin - 1
-chef:admin - 2
+chef:admin - 1
+thrax:admin - 2
+jman:admin - 3
